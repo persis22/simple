@@ -7,9 +7,9 @@ Libraries used:
 
 Installation:
 
-To run the script, you can simply extract the "requirements.txt" into the same pwd and install the required packages using the following command:
+To install Pandas, execute the following command on a terminal or command line:
 ```
-pip install -r requirements.txt
+pip install pandas
 ```
 
 Functions:
