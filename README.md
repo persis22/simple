@@ -5,7 +5,7 @@ This code reads input files, processes the data, and writes the output to a summ
 Libraries used:
 * pandas
 
-Functions
+Functions:
 
     This code has the following functions:
 * `read_files(file1, file2, file3)`: This function loads the input files into pandas dataframes.
