@@ -7,7 +7,7 @@ Libraries used:
 
 Functions:
 
-    This code has the following functions:
+   This code has the following functions:
 * `read_files(file1, file2, file3)`: This function loads the input files into pandas dataframes.
 * `merge_user_alias_dataframe(users_df, alias_df)`: This function merges the users dataframe with the aliases dataframe using the user_id as a common parameter.
 * `merge_final_dataframe(merged_df, events_df)`: This function merges the result with the events dataframes to get the feature assignments for each user.
@@ -15,7 +15,8 @@ Functions:
 * `write_to_csv(summary_df)`: This function writes the output to a summary file.
 
 Usage:
-    To use this code, simply ensure that the input files are in the CSV format and that the names are set correctly.
+   
+   To use this code, simply ensure that the input files are in the CSV format and that the names are set correctly.
 * Run the code, and the output will be written to the file summary.csv.
 * The code can also be imported as a module, and the functions can be used separately.
 
