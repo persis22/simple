@@ -1,4 +1,4 @@
-Introduction:
+#Introduction:
 
 This code reads input files, processes the data, and writes the output to a summary csv file. The input files are in the CSV format, and the output file will also be in CSV format.
 
