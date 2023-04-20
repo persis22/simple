@@ -9,9 +9,11 @@ This code reads input files, processes the data, and writes the output to a summ
 
 ## Installation
 
-To install Pandas, execute the following command on a terminal or command line:
+Installation:
+
+To run the script, you can simply extract the "requirements.txt" into the same pwd and install the required packages using the following command:
 ```
-pip install pandas
+pip install -r requirements.txt
 ```
 
 ## Functions:
