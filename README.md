@@ -27,7 +27,7 @@ pip install -r requirements.txt
 
 ## Usage
    
-   To use this code, simply ensure that the input files are in the CSV format and that the names are set correctly.
+* To use this code, simply ensure that the input files are in the CSV format and that the names are set correctly.
 * Run the code, and the output will be written to the file summary.csv.
 * The code can also be imported as a module, and the functions can be used separately.
 
